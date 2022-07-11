@@ -18,4 +18,5 @@ Decision Tree Regressor error = $$34,369.73
 Random Forrest Regression error = $$34,731.21
 
 
-I have had trouble saving the model and loading it to the main gui.
+Current problems are having the inputs be saved for the test model.
+Displaying the results on the app and not the terminal
